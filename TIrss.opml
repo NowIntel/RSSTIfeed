@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<opml version="1.0">
+ <head>
+  <title>OPML exported from Outlook</title>
+  <dateCreated>Wed, 1 Nov 2023 17:19:28 -0000</dateCreated>
+  <dateModified>Wed, 1 Nov 2023 17:19:28 -0000</dateModified>
+ </head>
+ <body>
+  <outline text="CISA new test" type="rss" xmlUrl="https://www.cisa.gov/rss.xml"/>
+  <outline text="WeLiveSecurity" type="rss"
+  xmlUrl="https://www.welivesecurity.com/feed/"/>
+  <outline text="X-Force Threat Analysis Reports" type="rss"
+  xmlUrl="https://exchange.xforce.ibmcloud.com/rss/tar"/>
+  <outline text="X-Force Malware Reports" type="rss"
+  xmlUrl="https://exchange.xforce.ibmcloud.com/rss/mal"/>
+  <outline text="NCSC Feed" type="rss"
+  xmlUrl="https://www.ncsc.gov.uk/api/1/services/v1/all-rss-feed.xml"/>
+  <outline text="Operating System: Apple ≈ Packet Storm" type="rss"
+  xmlUrl="https://rss.packetstormsecurity.com/files/os/apple/"/>
+  <outline text="X-Force ALL" type="rss"
+  xmlUrl="https://exchange.xforce.ibmcloud.com/rss/all"/>
+  <outline text="Azure service updates" type="rss"
+  xmlUrl="https://azurecomcdn.azureedge.net/en-gb/updates/feed/"/>
+  <outline text="Microsoft Security Response Center" type="rss"
+  xmlUrl="https://msrc-blog.microsoft.com/feed/"/>
+  <outline text="Sophos News" type="rss"
+  xmlUrl="https://news.sophos.com/en-us/feed/rss"/>
+  <outline text="2023 - Check Point Research" type="rss"
+  xmlUrl="https://research.checkpoint.com/2023/feed/"/>
+  <outline text="BleepingComputer" type="rss"
+  xmlUrl="http://www.bleepingcomputer.com/feed/"/>
+  <outline text="Threat Analysis Group (TAG)" type="rss"
+  xmlUrl="https://blog.google/threat-analysis-group/rss/"/>
+  <outline text="The Hacker News" type="rss"
+  xmlUrl="http://thehackernews.com/feeds/posts/default"/>
+  <outline text="Dark Reading" type="rss"
+  xmlUrl="https://www.darkreading.com/rss.xml"/>
+ </body>
+</opml>
